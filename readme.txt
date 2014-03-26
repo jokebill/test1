@@ -1,3 +1,3 @@
 hello world
-New branch made
+Added by master
 line deleted.
